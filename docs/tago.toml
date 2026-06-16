@@ -1,0 +1,10 @@
+title       = "youku"
+baseURL     = "https://youku-cli.tamnd.com/"
+description = "Read public Youku (优酷) video data"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/youku-cli"
